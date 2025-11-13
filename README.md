@@ -2,8 +2,6 @@
 
 A clean, modern **mobile app** built with **Expo + React Native** that lets you quickly log your mood with an optional note and see your recent entries in a filtered list.
 
-This is perfect to showcase **mobile development** skills on your GitHub.
-
 ---
 
 ## ✨ Features
@@ -93,21 +91,3 @@ moodlog-mobile/
 ├─ app.json        # Expo configuration
 └─ babel.config.js # Babel config for Expo
 ```
-
-You can commit this folder as a full **mobile app project** in your GitHub profile.
-
----
-
-## 🌟 Good for Your Portfolio
-
-This project shows that you can:
-
-- Build a real mobile UI with React Native
-- Manage state with hooks
-- Design a clean, modern layout
-- Use Expo tooling to ship to real devices
-
-You can extend it later with:
-- AsyncStorage persistence
-- Charts for mood trends over time
-- Backend syncing (Firebase, Supabase, etc.)
